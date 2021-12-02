@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @AndreasWoe
-- 👀 I’m interested in ...
-- 🌱 I’m currently (learning) teaching Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently teaching Java
 
 <!---
 AndreasWoe/AndreasWoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
