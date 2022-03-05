@@ -1,3 +1,10 @@
 Push ALL branches
-
+------------------------
 git push --all origin
+
+Back to old commit
+------------------------
+git log --oneline
+git checkout [HASHCODE] (back to head: git checkout master)
+git branch [BRANCHNAME]
+
