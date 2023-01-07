@@ -1,9 +1,16 @@
-Transfer git repository from local bare to github:
+# Push ALL branches
+git push --all origin
 
+# Back to old commit
+git log --oneline
+git checkout [HASHCODE] (back to head: git checkout master)
+git branch [BRANCHNAME]
+
+# Transfer git repository from local bare to github
 git remote add origin https://github.com/AndreasWoe/xxx.git
 git push --mirror
 
-Original https://stackoverflow.com/ Answer:
+original https://stackoverflow.com/ answer:
 -------------------------------------------
 create a new github repository via the webinterface, e.g. https://github.com/bfg/frobnozzel.git
 
@@ -20,3 +27,4 @@ cd /tmp/new-frobnozzel.git
 git push --mirror origin
 
 Source: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
+
