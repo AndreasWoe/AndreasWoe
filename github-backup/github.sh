@@ -2,7 +2,7 @@ git clone https://github.com/AndreasWoe/ainf-exercises
 git clone https://github.com/AndreasWoe/AndreasWoe
 git clone https://github.com/AndreasWoe/android
 git clone https://github.com/AndreasWoe/arduino
-git clone https://github.com/AndreasWoe/atmega8
+git clone https://github.com/AndreasWoe/avr
 git clone https://github.com/AndreasWoe/firecube
 git clone https://github.com/AndreasWoe/ginf-exercises
 git clone https://github.com/AndreasWoe/htl-cday-converter
