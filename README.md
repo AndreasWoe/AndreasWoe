@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AndreasWoe
-- 🌱 I’m currently teaching Java
+-  :watermelon: <-- awesome watermelon
 
 <!---
 AndreasWoe/AndreasWoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
