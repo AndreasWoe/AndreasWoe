@@ -28,3 +28,15 @@ git push --mirror origin
 
 Source: https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository
 
+# Check directory tree (Powershell)
+
+```
+Get-ChildItem -Directory | ForEach-Object {
+    if (Test-Path (Join-Path $_.FullName ".git")) {
+        Write-Host "===== $($_.Name) ====="
+        git -C $_.FullName status -sb
+        Write-Host ""
+    }
+}
+```
+
