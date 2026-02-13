@@ -1,0 +1,5 @@
+var urls = document.getElementsByTagName('a');
+for (url in urls) {
+	if(urls[url].getAttribute('itemprop') != null)
+		console.log ( urls[url].href );
+}
